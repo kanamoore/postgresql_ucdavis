@@ -1,4 +1,4 @@
-# postgresql_ucdavis
+# Data Retrival Exercise Using PostgreSQL
 
 In this project, I was given access to company's purchase dataset through Mode Analytics. Available tables are order, item, user and event.
 To accessthe dataset, use PDF file 'Connecting to Dataset'.
